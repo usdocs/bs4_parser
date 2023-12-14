@@ -1,4 +1,6 @@
 # Проект парсинга pep
+[![Python](https://img.shields.io/badge/-Python-464646?style=flat&logo=Python&logoColor=ffffff&color=5fe620)](https://www.python.org/)
+[![Beautiful Soup](https://img.shields.io/badge/-BeautifulSoup-464646?style=flat&logo=BeautifulSoup&logoColor=ffffff&color=5fe620)](https://beautiful-soup-4.readthedocs.io)
 
 ## Описание
 Парсер собирает данные обо всех PEP-документах
@@ -15,8 +17,8 @@
 
 ## Применяемые технологии
 
-[![Python](https://img.shields.io/badge/Python-3.7-blue?style=flat-square&logo=Python&logoColor=3776AB&labelColor=d0d0d0)](https://www.python.org/)
-[![Beautiful Soup 4](https://img.shields.io/badge/BeautifulSoup-4.9.3-blue?style=flat-square&labelColor=d0d0d0)](https://beautiful-soup-4.readthedocs.io)
+* Python — высокоуровневый язык программирования.
+* Beautiful Soup — это Python библиотека для синтаксического разбора файлов HTML/XML, которая может преобразовать даже неправильную разметку в дерево синтаксического разбора.
 
 ### Порядок действия для запуска парсера
 
@@ -98,5 +100,7 @@ optional arguments:
 * _results_ - для результатов парсинга;
 * _logs_ - для логов.
 
-## Автор
-Балакин Андрей
+### Разработчик проекта
+
+Автор: Andrey Balakin  
+E-mail: [usdocs@ya.ru](mailto:usdocs@ya.ru)
